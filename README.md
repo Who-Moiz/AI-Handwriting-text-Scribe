@@ -19,8 +19,8 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/handwriting_synthesis.git](https://github.com/YOUR_USERNAME/handwriting_synthesis.git)
-    cd handwriting_synthesis
+    git clone https://github.com/Who-Moiz/AI-Handwriting-text-Scribe.git
+    cd AI-Handwriting-text-Scribe
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
@@ -79,6 +79,8 @@ Writer Tab: Type text, pick a style, and click "Generate".
 Reader Tab: Upload an image or PDF to extract text.  
 Assistant Tab: Chat with AI to generate content.
 
+---
+
 ## 📂 Project Structure
 
 AI-Handwriting-Scribe/  
@@ -100,6 +102,8 @@ AI-Handwriting-Scribe/
 │  
 └── trocr_model_large/     # (Local Only) OCR Model Weights  
     └── pytorch_model.bin  
+
+---
     
 ## 🧠 Tech Stack
 
@@ -108,6 +112,8 @@ AI-Handwriting-Scribe/
 **OCR:** PyTorch, Transformers (Hugging Face)  
 **Processing:** OpenCV, Pillow, SVGWrite, PyMuPDF  
 **AI Assistant:** Google Gemini API
+
+---
 
 ## 📜 Credits
 
