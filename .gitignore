@@ -1,0 +1,24 @@
+# System Junk
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
+
+# Environments
+venv/
+env/
+.env
+.vscode/
+.idea/
+
+# Large Models & Outputs (User downloads these)
+trocr_model_large/
+ocr_output/
+logs/
+
+# Archives & Temp Files
+*.rar
+*.zip
+*.pdf
+*.svg
