@@ -2,7 +2,12 @@
 
 **AI Scribe** is a dual-module AI application that bridges the gap between digital text and analog handwriting. It features a **Generative Writer** that converts typed text into realistic, vector-based handwriting (simulating human motor control) and an **Optical Character Recognition (OCR)** engine capable of reading complex, unconstrained handwritten documents.
 
-[![Watch the Demo](https://img.youtube.com/vi/hc8wq16-BYs/0.jpg)](https://www.youtube.com/watch?v=hc8wq16-BYs)
+<div align="center">
+  <h3>👇 Click below to watch the full demo video 👇</h3>
+  <a href="https://www.youtube.com/watch?v=hc8wq16-BYs">
+    <img src="https://img.youtube.com/vi/hc8wq16-BYs/0.jpg" alt="Watch the Demo">
+  </a>
+</div>
 
 ## 🚀 Features
 
